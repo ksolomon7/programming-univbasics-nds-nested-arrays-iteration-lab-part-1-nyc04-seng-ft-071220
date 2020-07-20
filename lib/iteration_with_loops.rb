@@ -13,5 +13,3 @@ def find_even_values(src)
   end
   # Output all even values in each nested array
 end
-
-find_even_values(src)
