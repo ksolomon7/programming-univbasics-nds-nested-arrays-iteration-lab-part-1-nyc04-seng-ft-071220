@@ -12,5 +12,6 @@ def find_even_values(src)
     row_index+=1
   end
   # Output all even values in each nested array
-
 end
+
+find_even_values(src)
